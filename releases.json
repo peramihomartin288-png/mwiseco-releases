@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "apps": {
+    "teacher": {
+      "display_name": "MWISECO Teachers",
+      "application_id": "tz.co.mwiseco.teachers",
+      "latest_version": null,
+      "version_code": null,
+      "apk_url": null,
+      "release_notes_url": null,
+      "mandatory": false
+    },
+    "secretary": {
+      "display_name": "MWISECO Secretary",
+      "application_id": null,
+      "latest_version": null,
+      "version_code": null,
+      "apk_url": null,
+      "release_notes_url": null,
+      "mandatory": false
+    }
+  }
+}
