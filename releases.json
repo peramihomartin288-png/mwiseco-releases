@@ -4,12 +4,12 @@
     "teacher": {
       "display_name": "MWISECO Teachers",
       "application_id": "tz.co.mwiseco.teachers",
-      "latest_version": "1.0.11",
-      "version_code": 11,
-      "apk_url": "https://github.com/peramihomartin288-png/mwiseco-releases/releases/download/teacher-v1.0.11/mwiseco-teachers-v1.0.11.apk",
-      "release_notes_url": "https://github.com/peramihomartin288-png/mwiseco-releases/releases/tag/teacher-v1.0.11",
+      "latest_version": "1.0.14",
+      "version_code": 14,
+      "apk_url": "https://github.com/peramihomartin288-png/mwiseco-releases/releases/download/teacher-v1.0.14/mwiseco-teachers-v1.0.14.apk",
+      "release_notes_url": "https://github.com/peramihomartin288-png/mwiseco-releases/releases/tag/teacher-v1.0.14",
       "mandatory": false,
-      "release_tag": "teacher-v1.0.11"
+      "release_tag": "teacher-v1.0.14"
     },
     "secretary": {
       "display_name": "MWISECO Secretary",
